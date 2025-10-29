@@ -18,7 +18,7 @@ My first repository
 2. *Furious 7* (2015) – Emotional and epic.  
 3. *Fast & Furious 6* (2013) – Team at their best!  
 
-
+---
 
 ### About the Franchise
 The **Fast & Furious** saga started in 2001 and has become one of the most successful action franchises ever — combining heart, horsepower, and high stakes.
